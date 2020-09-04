@@ -60,7 +60,7 @@
     "limiter": "^1.1.2",
     "localtunnel": "^1.8.3",
     "mongo-escape": "^2.0.6",
-    "mongodb": "^3.0.1",
+    "mongodb": "^3.1.13",
     "node-yaml": "^3.1.1",
     "octonode": "^0.9.1",
     "pako": "^1.0.6",
