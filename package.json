@@ -68,7 +68,7 @@
     "request": "^2.83.0",
     "reverse-string": "0.0.6",
     "run-script-os": "^1.0.3",
-    "socket.io": "^2.0.4",
+    "socket.io": "^2.4.0",
     "twemoji": "^2.5.0",
     "typescript": "^2.6.2",
     "uglify-es": "^3.2.2",
